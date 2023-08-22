@@ -1,0 +1,1 @@
+INSERT INTO `user` VALUES (1,'loki@odin.com','123456789');
